@@ -1,9 +1,9 @@
 ##### This file is to store different versions of TF.db
 
 ### 2018.10.08 TF_v3.db update to TF_v4.db
-1.TF.db更新gsm_info表，只选取常用的gsm信息，目前可正常从TF.db读取，gsm_info包含：
-human_gsm_info
-mouse_gsm_info
+1.TF.db更新gsm_info表，只选取常用的gsm信息，目前可正常从TF.db读取gsm信息，gsm_info包含：
++ human_gsm_info
++ mouse_gsm_info
 
 
 ### 2018.10.01 TF_v2.db update to TF_v3.db
