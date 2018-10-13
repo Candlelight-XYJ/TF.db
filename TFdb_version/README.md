@@ -1,7 +1,7 @@
 ##### This file is to store different versions of TF.db
 
 
-### 2018.10.08 TF_v4.db update to TF_v5.db
+### 2018.10.13 TF_v4.db update to TF_v5.db
 1.TF.db add four tables：
 + human_all_tfs：all transfacotrs in human，source from HumanTFDB
 + mouse_all_tfs：all transfacotrs in mouse，source from AnimalTFDB
